@@ -1,0 +1,66 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="backlightbuilding.com" resolutions="1x,2x" timestamp="1554980585982">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="thank-you-for-the-coffee_.css" crc="104446114" ref="thank-you-for-the-coffee!"/>
+    <file name="index.css" crc="3873419366" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thank-you-for-the-coffee!"/>
+    <file name="museutils.js" crc="163421577" ref="index:thank-you-for-the-coffee!"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thank-you-for-the-coffee!"/>
+    <file name="museconfig.js" crc="168988563" ref="index:thank-you-for-the-coffee!"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:thank-you-for-the-coffee!"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:thank-you-for-the-coffee!"/>
+    <file name="require.js" crc="244322403" ref="index:thank-you-for-the-coffee!"/>
+  </folder>
+  <folder name="images">
+    <file name="backlight-building-favicon.ico" crc="371229369" ref="index"/>
+    <file name="001.jpg" crc="8415397" ref="index"/>
+    <file name="u315-4.png" crc="289545896" ref="index"/>
+    <file name="u315-4_2x.png" crc="3881487985" ref="index"/>
+    <file name="u737-4.png" crc="3779897065" ref="index"/>
+    <file name="u737-4_2x.png" crc="328664487" ref="index"/>
+    <file name="u738-4.png" crc="246661123" ref="index"/>
+    <file name="u738-4_2x.png" crc="4043165242" ref="index"/>
+    <file name="u739-4.png" crc="3780060412" ref="index"/>
+    <file name="u739-4_2x.png" crc="3845782115" ref="index"/>
+    <file name="u797-4.png" crc="4004012887" ref="index"/>
+    <file name="u797-4_2x.png" crc="3766753735" ref="index"/>
+    <file name="u740-4.png" crc="3823015593" ref="index"/>
+    <file name="u740-4_2x.png" crc="3954050671" ref="index"/>
+    <file name="858525.png" crc="185682181" ref="index"/>
+    <file name="858525_2x.png" crc="3958203496" ref="index"/>
+    <file name="u401-6.png" crc="3974772858" ref="index"/>
+    <file name="u401-6_2x.png" crc="109012888" ref="index"/>
+    <file name="u398-8.png" crc="364266397" ref="index"/>
+    <file name="u398-8_2x.png" crc="4254348511" ref="index"/>
+    <file name="image (2).png" crc="3929483521" ref="index"/>
+    <file name="image (2)_2x.png" crc="91109290" ref="index"/>
+    <file name="u492-6.png" crc="4259577623" ref="index"/>
+    <file name="u492-6_2x.png" crc="225787245" ref="index"/>
+    <file name="u468-18.png" crc="4203752494" ref="index"/>
+    <file name="u468-18_2x.png" crc="291005758" ref="index"/>
+    <file name="20180507_182404.jpg" crc="71280622" ref="index"/>
+    <file name="20180507_182404_2x.jpg" crc="257229998" ref="index"/>
+    <file name="u548-6.png" crc="145417683" ref="index"/>
+    <file name="u548-6_2x.png" crc="218835575" ref="index"/>
+    <file name="u545-14.png" crc="3993648546" ref="index"/>
+    <file name="u545-14_2x.png" crc="3838153193" ref="index"/>
+    <file name="u593-6.png" crc="4085721759" ref="index"/>
+    <file name="u593-6_2x.png" crc="4116869122" ref="index"/>
+    <file name="u592-11.png" crc="4031853424" ref="index"/>
+    <file name="u592-11_2x.png" crc="3848111603" ref="index"/>
+    <file name="u881-6.png" crc="3803228015" ref="index"/>
+    <file name="u881-6_2x.png" crc="3905884313" ref="index"/>
+    <file name="cup-of-coffee-symbol-vector-21365311.png" crc="224473225" ref="index"/>
+    <file name="cup-of-coffee-symbol-vector-21365311_2x.png" crc="96476501" ref="index"/>
+    <file name="image (3).jpg" crc="377714254" ref="index"/>
+    <file name="image (3)_2x.jpg" crc="454838452" ref="index"/>
+    <file name="thank-you-for-the-coffee!-favicon.ico" crc="4256369414" ref="thank-you-for-the-coffee!"/>
+    <file name="s-l1000.jpg" crc="119151369" ref="thank-you-for-the-coffee!"/>
+    <file name="u1047-4.png" crc="3778549276" ref="thank-you-for-the-coffee!"/>
+    <file name="u1047-4_2x.png" crc="3917736563" ref="thank-you-for-the-coffee!"/>
+  </folder>
+  <file name="index.html" crc="1871610" seo="true" mt="1554465213960" redirect="true"/>
+  <file name="thank-you-for-the-coffee!.html" crc="256192048" seo="true" mt="1554465136145" redirect="true"/>
+</manifest>
